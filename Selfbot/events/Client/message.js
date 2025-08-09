@@ -1,5 +1,5 @@
 const { Message, Client } = require('legend.js');
-const words = [ "senju", "nekzy", "/vbv" , "1212970751813226517" ];
+const words = [];
 
 module.exports = {
     name: "message",
