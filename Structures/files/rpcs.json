@@ -1,0 +1,132 @@
+{
+    "clear": { 
+        "name": "ㅤ",
+        "type": 0 
+    },
+
+    "twitch": {
+        "name": "Twitch",
+        "type": 3,
+        "details": "Searching...",
+        "timestamps": { "start": "" },
+        "assets": { "large_image": "mp:external/YEXjvLEznJJpPPD2bwUUcSY37YcfVhB3AX6Kn-hYkhA/https/i.postimg.cc/LsgS0CBK/imagefffs-removebg-preview.png" }
+    },
+
+    "tiktok": {
+        "name": "TIKTOK",
+        "type": 3,
+        "state": "On Tiktok",
+        "details": "{args}",
+        "timestamps": { "start": "" },
+        "assets": { "large_image": "mp:external/0kyHq44jobpKz3QhqqYRVRRC8Jhc9VT-EXNcKag4PfA/https/i.postimg.cc/52BNmN1d/t-l-chargement-4-removebg-preview.png" }
+    },
+
+    "youtube": {
+        "name": "Youtube",
+        "type": 3,
+        "state": "On Youtube",
+        "details": "{args}",
+        "assets": { "large_image": "mp:external/KpOVOtCYvza8iAfJQtUqqB7vIaBfm8ZOTQuCf_B9KmM/https/i.postimg.cc/fRpk8gSm/t-l-chargefefefement-removebg-preview.png" }
+    },
+
+    "netflix": {
+        "name": "Netflix",
+        "type": 3,
+        "state": "S1:E1",
+        "details":"{args}",
+        "assets": {
+            "large_image": "mp:external/cuNBs6E4E__3QVHkkSU-3e9YYHnPROFal8isDyPOOkY/https/i.postimg.cc/FK5dPK1s/Netflix.png",
+            "small_image": "mp:external/hRPivMppYYA_AYtjZmJUf0_WptIRFSSKvWytj8MgBlQ/https/i.postimg.cc/jSCLq7nj/play.png",
+            "small_text": "Playing back"
+        }
+    },
+
+    "js": {
+        "name": "Code",
+        "type": 0,
+        "details": "No Workspace - 0 problems found",
+        "state": "Working on {args}.js - 13:37",
+        "assets": {
+            "large_image": "mp:external/TYmZpqSy14Pd-zjpgTaxFC5t8JgsbV2SEqOFLoZH6gg/https/i.postimg.cc/Y23PMGwZ/js.png",
+            "small_image": "mp:external/aH-YX-4uAscoOjdRerxs7WZPodpnb_0n4PfzsrGzPeo/https/i.postimg.cc/L8yS6q3T/t-l-chargesdsfdment-removebg-preview.png",
+            "small_text": "Visual Studio Code",
+            "large_text": "Editing a JS file"
+        }
+    },
+
+    "cpp": {
+        "name": "Code",
+        "type": 0,
+        "details": "No Workspace - 0 problems found",
+        "state": "Working on {args}.cpp - 13:37",
+        "assets": {
+            "large_image": "mp:external/lqUqyjzDQS2D5yqFdGp3VvcZpG81riyo-b9br0K6jYE/https/i.postimg.cc/8k7F02mX/image.png?format=webp&quality=lossless&width=128&height=128",
+            "small_image": "mp:external/aH-YX-4uAscoOjdRerxs7WZPodpnb_0n4PfzsrGzPeo/https/i.postimg.cc/L8yS6q3T/t-l-chargesdsfdment-removebg-preview.png",
+            "small_text": "Visual Studio Code",
+            "large_text": "Editing a CPP file"
+        }
+    },
+
+    "python": {
+        "name": "Code",
+        "type": 0,
+        "details": "No Workspace - 0 problems found",
+        "state": "Working on {args}.py - 13:37",
+        "assets": {
+            "large_image": "mp:external/KEBEXG0RnXIR27yRYEhTwd_DpJFcKQPPBk9ZLRrnDFk/https/i.postimg.cc/52qn1yTj/python.png",
+            "small_image": "mp:external/aH-YX-4uAscoOjdRerxs7WZPodpnb_0n4PfzsrGzPeo/https/i.postimg.cc/L8yS6q3T/t-l-chargesdsfdment-removebg-preview.png",
+            "small_text": "Visual Studio Code",
+            "large_text": "Editing a PY file"
+        }
+    },
+
+    "ph": {
+        "name": "PornHub",
+        "type": 3,
+        "details": "{args}",
+        "state": "On Pornhub",
+        "assets": {
+            "large_image": "mp:external/D61v8PYftVut_EMsfrVWDbSqQR3BuPT4Fa3yUvBtRrQ/https/i.postimg.cc/VNZ9LCRs/PH.png"
+        }
+    },
+
+    "disney+": {
+        "name": "Disney+",
+        "type": 3,
+        "details": "{args}",
+        "state": "On Disney+",
+        "assets": {
+            "large_image": "mp:external/gsXW4r96Y-xVCzDGKgN9hkZo6W6GunO_pYRfX9XjS9U/https/i.postimg.cc/65B8gQrM/disneyplus.png"
+        }
+    },
+
+    "ubereats": {
+        "name": "UBER EATS",
+        "type": 3,
+        "details": "{args}",
+        "state": "On Uber Eats",
+        "assets": {
+            "large_image": "mp:external/PdB5GZP_YK-uEKMrJzDXE-yiHtKT1H2iXQMHGt-gI9g/https/i.postimg.cc/QMZGYF5t/uber.webp"
+        }
+    },
+
+    "photoshop": {
+        "name": "Photoshop",
+        "type": 0,
+        "details": "Edtiting : {args}.psd",
+        "state": "On Photoshop",
+        "assets": {
+            "large_image": "mp:external/aPVlCGNF5ydNDS3yKUyJzEVb_B3NGQLnp0lx-5JzjyU/https/i.postimg.cc/YCdnmYVv/t-l-chargement-14-removebg-preview.png"
+        }
+    },
+
+    "kali": {
+        "name": "KALI LINUX",
+        "type": 5,
+        "details": "Terminal : {args}",
+        "state": "On Kali Linux",
+        "assets": {
+            "large_image": "mp:external/4U6cOTFNm87MEMni9zNY9lwApwi5s3akxJ9iDgeRDRo/https/i.postimg.cc/3xMcYPwf/kali.webp"
+        }
+    }
+}

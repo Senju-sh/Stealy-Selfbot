@@ -1,0 +1,139 @@
+{
+    "new_users": true,
+    "enable": true,
+    
+    "prefix": "&",
+    "language": "fr",
+
+    "status": "idle",
+    "device": "desktop",
+
+    "twitch": "https://twitch.tv/002-sans",
+
+    "set_afk": false,
+    "description": null,
+    "nitro_sniper": false,
+    "log_color": "#FFFFFF",
+    "auto_templates": false,
+    "auto_mute_guilds": true,
+    
+    "reminder": [],
+    "nolock_dm": [],
+    "auto_react": [],
+    "noleave_guilds": [],
+    "noleave_groups": [],
+
+    "payment": {
+        "paypal": null,
+        "ltc": null
+    },
+
+    "clan": {
+        "multi": false,
+        "guilds": []
+    },
+    
+    "stats": {
+        "sniped": 0,
+        "messages_deleted": 0,
+        "messages_created": 0
+    },
+
+    "anti_group": {
+        "status": false,
+        "message": null,
+        "silent": false,
+        "no_leave": [],
+        "whitelist": [],
+        "no_add": []
+    },
+
+    "voice": {
+        "connect": true,
+        "channelId": null,
+        "mute": true,
+        "deaf": true,
+        "video": false,
+        "stream": false,
+        "antijoin": [],
+        "whitelist": []
+    },
+
+    "logger": {
+        "guilds": { "enable": true, "url": null },
+        "profiles": { "enable": true, "url": null },
+        "lock_url": { "enable": true, "url": null },
+        "templates": { "enable": true, "url": null },
+        "snipe_url": { "enable": true, "url": null },
+        "anti_group": { "enable": true, "url": null },
+        "ghostpings": { "enable": true, "url": null },
+        "nitro_sniper": { "enable": true, "url": null },
+        "message_delete": { "enable": true, "url": null },
+        "message_update": { "enable": true, "url": null }
+    },
+
+    "snipe_url": [],
+    "lock_url": [],
+    "blacklist": [],
+    
+    "rpc": {
+        "status": true,
+        "name": "⚡",
+        "type": 5,
+        "details": "Stealy",
+        "platform": "desktop",
+        "application_id": "1339555215782707282",
+        "assets": {
+            "large_image": "mp:external/77_4czkhFeGsUq1JY0nnFNtuZO5CH6qfPaKHpb0sYhY/https/i.imgur.com/0LxRndR.png?width=473&height=473"
+        },
+        "buttons": [ "⚡・Stealy" ],
+        "metadata": {
+            "button_urls": [ "https://discord.gg/F7S9CwSK7p" ]
+        }
+    },
+
+    "spotify": {
+        "status": false,
+        "name": "Spotify",
+        "type": 2,
+        "flags": 48,
+        "party": { "id": "spotify:ID" },
+        "sync_id": "1J03Vp93ybKIxfzYI4YJtL",
+        "metadata": { "context_uri": null, "artist_ids": [], "album_id": "2M2Ae2SvZe3fmzUtlVOV5Z" },
+        "assets": {
+            "large_image": "mp:external/77_4czkhFeGsUq1JY0nnFNtuZO5CH6qfPaKHpb0sYhY/https/i.imgur.com/0LxRndR.png?width=473&height=473"
+        },
+        "secrets": {
+            "join": "44d736dd2cac2417dd86bb0a26c1f11dd8b12754",
+            "spectate": "a099af4e7afcd0264b302f052ad658f7f725e742",
+            "match": "473638f97aa6997bbc40221cb0c0bb70fd3e25fd"
+        }
+    },
+
+    "setgame": {
+        "status": false,
+        "name": "ㅤ",
+        "platform": "ps5",
+        "type": 0
+    },
+
+    "custom": {
+        "status": true,
+        "state": "/stealy",
+        "details": "recommend",
+        "emoji": null
+    },
+
+    "multi": {
+        "status": true,
+        "interval": 15,
+        "type": [],
+        "presence": [],
+        "rpc": []
+    },
+
+    "multispoof": {
+        "status": false,
+        "devices": []
+    }
+}

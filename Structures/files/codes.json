@@ -1,0 +1,34 @@
+{
+   "7z": {
+       "used": true,
+       "actif": true,
+       "code": "7z",
+       "by": "346393063284932618",
+       "expiresAt": 0,
+       "redeemedAt": 1753901177196
+   },
+   "draco": {
+       "used": true,
+       "actif": true,
+       "code": "draco",
+       "by": "114637703659782149",
+       "expiresAt": 0,
+       "redeemedAt": 1753902352989
+   },
+   "cosmos": {
+       "used": true,
+       "actif": true,
+       "code": "cosmos",
+       "by": "363362757049057280",
+       "expiresAt": 0,
+       "redeemedAt": 1753915647861
+   },
+   "arashi": {
+       "used": true,
+       "actif": true,
+       "code": "arashi",
+       "by": "979044499126894632",
+       "expiresAt": 89593971,
+       "redeemedAt": 1753901177196
+   }
+}

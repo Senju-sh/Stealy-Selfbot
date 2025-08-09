@@ -1,0 +1,9 @@
+{
+    "token": "BOT_TOKEN",
+    "guild_id": "CHANNEL_ID",
+    "log_channel": "CHANNEL_ID",
+    "staff_role": "ROLE_ID",
+    "whitelist_role": "ROLE_ID",
+    "owners": ["id1", "id2"],
+    "users": ["USER_TOKEN_1","USER_TOKEN_2","USER_TOKEN_3"]
+}

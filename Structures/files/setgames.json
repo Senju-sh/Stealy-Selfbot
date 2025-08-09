@@ -1,0 +1,161 @@
+{
+    "clear": {
+        "name": "ㅤ",
+        "type": 0
+    },
+    "gtav": {
+        "name": "Grand Theft Auto V",
+        "type": 0,
+        "platform": "ps5",
+        "assets": {
+            "large_image": "mp:external/YowiPFgQADlpMTeguEAHFn06B3rw2byZDmgvEQjmBFk/https/i.postimg.cc/90ZN7p8Y/GTAV.webp"
+        }
+    },
+    "r6": {
+        "name": "Rainbow Six Siege",
+        "state": "in MENU",
+        "type": 0,
+        "platform": "ps5",
+        "assets": {
+            "large_image": "mp:external/n7TB0d0JSaMMRQy7JUyXNashpU-olCGJNfwRlPc2Prc/https/i.postimg.cc/brtXgNyD/r6.png"
+        }
+    },
+    "gtavi": {
+        "name": "Grand Theft Auto VI",
+        "type": 0,
+        "platform": "ps5",
+        "assets": {
+            "large_image": "mp:external/scCdarf69TvLXYvwXOuboGdyXA8evrjlBZvvL_k5Vvo/https/i.postimg.cc/c4f1nLBP/Watch-Trailer-1-Tuesday-December-5-at-9-AM-ET-1-24-screenshot.webp"
+        }
+    },
+    "cs2": {
+        "name": "Counter-Strike 2",
+        "type": 0,
+        "platform": "ps5",
+        "assets": {
+            "large_image": "mp:external/hfhF6MVbodJA2525pbK-yqt4w_Bw4Ds5szujew4CIMA/https/i.postimg.cc/76jCLg0h/cs2.png"
+        }
+    },
+    "acs" : {
+        "name": "Assassin's Creed® Shadows",
+        "type": 0,
+        "platform": "ps5",
+        "assets": {
+            "large_image": "mp:external/bgLdb6kMcQ8SrhGFvoatKwBPzYJ6iQQOCb-yFW7ohAc/https/i.postimg.cc/T3HQy4hs/ACS.jpg"
+        }
+    },
+    "ow" : {
+        "name": "Overwatch 2",
+        "type": 0,
+        "platform": "ps5",
+        "assets": {
+            "large_image": "mp:external/DoJG4Bgc8JQQTU2wsLmtur0YqPH2wl2njmY7q6eTVgQ/https/i.postimg.cc/brsV8zsy/ow2.png"
+        }
+    },
+    "rbx" : {
+        "name": "Roblox",
+        "type": 0,
+        "platform": "desktop",
+        "assets": {
+            "large_image": "mp:external/5IGhtuheuMvEr-87JTq6it1XHqoMcEmGMaQH5sQYGFM/https/i.postimg.cc/W49pd3Y0/roblox.png"
+        }
+    },
+    "minecraft": {
+        "name": "Minecraft",
+        "type": 0,
+        "platform": "ps5",
+        "assets": {
+            "large_image": "mp:external/MfUwvXe85NA-znbdw6K8xq3mBfV5I1HhL1X54Eoea5o/https/i.postimg.cc/g2bsbZbM/Minecraft.png"
+        }
+    },
+    "resident": {
+        "name": "Resident Evil Village",
+        "type": 0,
+        "platform": "ps5",
+        "assets": {
+            "large_image": "mp:external/XnglBUagV8GZBpuetCxatfCevkK6MrJiVIigXfjX6j0/https/i.postimg.cc/NMdCgfkK/resident.jpg"
+        }
+    },
+    "apex": {
+        "name": "Apex Legends",
+        "type": 0,
+        "platform": "ps5",
+        "assets": {
+            "large_image": "mp:external/JvCoFkpVeXIxtQ45E9F31J6BQIp9FhXXvUtJDU3KwOY/https/i.postimg.cc/V6fg5gqt/apex.png"
+        }
+    },
+    "rocketleague": {
+        "name": "Rocket League",
+        "type": 0,
+        "platform": "ps5",
+        "assets": {
+            "large_image": "mp:external/bP0y5IfL0GbZ3Hi-gvOsKrHP5N_Mg3k5FfwcF899HtM/https/i.postimg.cc/KjVcz12w/t-l-chargement-removebg-preview.png"
+        }
+    },
+    "fallguys": {
+        "name": "Fall Guys",
+        "type": 0,
+        "platform": "ps5",
+        "assets": {
+            "large_image": "mp:external/cjjhriZGgpLXsSwoJ4owONnIfq6J9Qa1dlee63UPuF4/https/i.postimg.cc/fLCpJvDT/fallguys.png"
+        }
+    },
+    "valorant": {
+        "name": "VALORANT",
+        "type": 0,
+        "platform": "ps5",
+        "assets": {
+            "large_image": "mp:external/OeWe3kBKRpV1KuNzrFD3tUulvAJxyw-nIJPB030o6x0/https/i.postimg.cc/x1Lt7dwv/valorant.png"
+        }
+    },
+    "destiny": {
+        "name": "Destiny 2",
+        "type": 0,
+        "platform": "ps5",
+        "assets": {
+            "large_image": "mp:external/1BbDIVhq9VuysRlARdlwA2CZfcZJB895LnXvkSfGZWQ/https/i.postimg.cc/Kv1ZC85g/destiny-2-bungie-video-game-destiny-removebg-preview.png"
+        }
+    },
+    "osu" : {
+        "name" : "Osu",
+        "type" : 0,
+        "platform" : "desktop",
+        "assets" : {
+            "large_image" : "mp:external/d4-BBPRugra4g3LYjDZfUi847XCueSXcvvL_bdCLgoc/https/i.postimg.cc/y6PrqZ51/osu.png"
+        }
+    },
+    "cod": {
+        "name": "Call of Duty®: MWIII",
+        "type": 0,
+        "platform": "ps5",
+        "assets": {
+            "large_image": "mp:external/cTCgl2vRvji68szF1qHgX8nkPI2YqTBN3GSmM92Lx7s/https/i.postimg.cc/KvhWy6jq/MW3.png",
+            "small_image": "mp:external/Gt4DdrGXr53tzOfv0RdJENXqQVoHcKI_BkZ_UXKv_Xc/https/i.postimg.cc/qMc5B1Ck/MW3-2.png"
+        }
+    },
+    "schedule": {
+        "name": "Schedule I",
+        "type": 0,
+        "platform": "desktop",
+        "assets": {
+            "large_image": "mp:external/r7VSmHD8Qdvezr9HOegrNJ3hXbSBELvvGHOUzwzrKvM/https/i.imgur.com/sNqFdjN.png"
+        }
+    },
+    "fortnite": {
+        "name": "Fortnite",
+        "type": 0,
+        "platform": "ps5",
+        "assets": {
+            "large_image": "mp:external/bO1deYMybItG_Ejbf7oG8OiwbaMKBiR4fKrn0PCLmh8/https/i.postimg.cc/k5nqgkhy/fortnite.png",
+            "small_image": "mp:external/1YeBCeneuf-MeKTlaOicbQtLsSuSgtbIBc58ti-EjYo/https/i.postimg.cc/2ywfh2Mf/passe-de-combat.png"
+        }
+    },
+    "fc25": {
+        "name": "EA SPORTS FC 25",
+        "type": 0,
+        "platform": "ps5",
+        "assets": {
+            "large_image": "mp:external/UqnLdKOglCIugZgVK-iHCO7UPamkp_Il0L4rliSDy1s/https/i.postimg.cc/50rr7s4C/9f8cdf2609aaa476e7b8ff508dc7ac1d.png"
+        }
+    }
+}
